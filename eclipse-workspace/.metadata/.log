@@ -1,0 +1,238 @@
+!SESSION 2020-06-20 10:38:30.065 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-20 10:38:51.446
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Johny'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-27 10:56:21.161 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-27 10:56:37.284
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Johny'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-07-02 17:14:58.518 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-02 17:23:22.363
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Johny'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-07-03 12:09:05.317 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-03 12:09:22.413
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Johny'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-07-03 13:12:46.041 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data file:/C:/Users/Johny/eclipse-workspace/ -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-03 13:12:56.104
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Johny'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-07-03 13:54:15.945 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-07-03 13:54:33.606
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-03 13:54:45.096
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Johny'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2020-07-03 14:29:42.030
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Johny\eclipse\java-2019-12\eclipse\configuration\org.eclipse.osgi\490\0\.cp\lib\testng-remote.jar C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\test-classes C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\classes C:\Users\Johny\.p2\pool\plugins\org.testng_7.1.0.r202001120626.jar C:\Users\Johny\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar C:\Users\Johny\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Johny\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Johny\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\Johny\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 49706 -protocol json -d C:\Users\Johny\eclipse-workspace\Group6john\Scuba\test-output C:\Users\Johny\eclipse-workspace\Group6john\Scuba\testng.XML
+java -ea -classpath C:\Users\Johny\eclipse\java-2019-12\eclipse\configuration\org.eclipse.osgi\490\0\.cp\lib\testng-remote.jar:C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\test-classes:C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\classes:C:\Users\Johny\.p2\pool\plugins\org.testng_7.1.0.r202001120626.jar:C:\Users\Johny\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar:C:\Users\Johny\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Johny\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Johny\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\Johny\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar org.testng.remote.RemoteTestNG -serport 49706 -protocol json -d C:\Users\Johny\eclipse-workspace\Group6john\Scuba\test-output C:\Users\Johny\eclipse-workspace\Group6john\Scuba\testng.XML
+
+!ENTRY org.testng.eclipse 1 0 2020-07-03 14:29:42.364
+!MESSAGE Stop the socket server as it's still pending on accepting the client
+
+!ENTRY org.testng.eclipse 4 4 2020-07-03 14:30:31.501
+!MESSAGE Error
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/Scuba/testng.XML)[374]: java.lang.Exception: Resource '/Scuba/testng.XML' already exists.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:309)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:296)
+	at org.eclipse.core.internal.resources.File.create(File.java:107)
+	at org.eclipse.core.internal.resources.File.create(File.java:179)
+	at org.testng.eclipse.refactoring.ConvertToYamlAction.execute(ConvertToYamlAction.java:61)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at sun.reflect.GeneratedMethodAccessor77.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:318)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:252)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:438)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:449)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:475)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3988)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3587)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:660)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+!SUBENTRY 1 org.eclipse.core.resources 4 374 2020-07-03 14:30:31.501
+!MESSAGE Resource '/Scuba/testng.XML' already exists.
+!STACK 0
+java.lang.Exception: Resource '/Scuba/testng.XML' already exists.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:309)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:296)
+	at org.eclipse.core.internal.resources.File.create(File.java:107)
+	at org.eclipse.core.internal.resources.File.create(File.java:179)
+	at org.testng.eclipse.refactoring.ConvertToYamlAction.execute(ConvertToYamlAction.java:61)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at sun.reflect.GeneratedMethodAccessor77.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:318)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:252)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:438)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:449)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:475)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3988)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3587)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:660)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.testng.eclipse 1 0 2020-07-03 14:30:37.703
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Johny\eclipse\java-2019-12\eclipse\configuration\org.eclipse.osgi\490\0\.cp\lib\testng-remote.jar C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\test-classes C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\classes C:\Users\Johny\.p2\pool\plugins\org.testng_7.1.0.r202001120626.jar C:\Users\Johny\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar C:\Users\Johny\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Johny\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Johny\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\Johny\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 49707 -protocol json -d C:\Users\Johny\eclipse-workspace\Group6john\Scuba\test-output C:\Users\Johny\AppData\Local\Temp\testng-eclipse--1895533021\testng-customsuite.xml
+java -ea -classpath C:\Users\Johny\eclipse\java-2019-12\eclipse\configuration\org.eclipse.osgi\490\0\.cp\lib\testng-remote.jar:C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\test-classes:C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\classes:C:\Users\Johny\.p2\pool\plugins\org.testng_7.1.0.r202001120626.jar:C:\Users\Johny\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar:C:\Users\Johny\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Johny\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Johny\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\Johny\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar org.testng.remote.RemoteTestNG -serport 49707 -protocol json -d C:\Users\Johny\eclipse-workspace\Group6john\Scuba\test-output C:\Users\Johny\AppData\Local\Temp\testng-eclipse--1895533021\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-07-03 14:30:37.925
+!MESSAGE Stop the socket server as it's still pending on accepting the client
+
+!ENTRY org.testng.eclipse 1 0 2020-07-03 14:33:21.164
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Johny\eclipse\java-2019-12\eclipse\configuration\org.eclipse.osgi\490\0\.cp\lib\testng-remote.jar C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\test-classes C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\classes C:\Users\Johny\.p2\pool\plugins\org.testng_7.1.0.r202001120626.jar C:\Users\Johny\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar C:\Users\Johny\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Johny\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Johny\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\Johny\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 49713 -protocol json -d C:\Users\Johny\eclipse-workspace\Group6john\Scuba\test-output C:\Users\Johny\eclipse-workspace\Group6john\Scuba\testng.XML
+java -ea -classpath C:\Users\Johny\eclipse\java-2019-12\eclipse\configuration\org.eclipse.osgi\490\0\.cp\lib\testng-remote.jar:C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\test-classes:C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\classes:C:\Users\Johny\.p2\pool\plugins\org.testng_7.1.0.r202001120626.jar:C:\Users\Johny\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar:C:\Users\Johny\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Johny\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Johny\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\Johny\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar org.testng.remote.RemoteTestNG -serport 49713 -protocol json -d C:\Users\Johny\eclipse-workspace\Group6john\Scuba\test-output C:\Users\Johny\eclipse-workspace\Group6john\Scuba\testng.XML
+
+!ENTRY org.testng.eclipse 1 0 2020-07-03 14:33:21.361
+!MESSAGE Stop the socket server as it's still pending on accepting the client
+
+!ENTRY org.testng.eclipse 1 0 2020-07-03 14:38:15.082
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Johny\eclipse\java-2019-12\eclipse\configuration\org.eclipse.osgi\490\0\.cp\lib\testng-remote.jar C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\test-classes C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\classes C:\Users\Johny\.p2\pool\plugins\org.testng_7.1.0.r202001120626.jar C:\Users\Johny\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar C:\Users\Johny\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Johny\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Johny\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\Johny\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 49715 -protocol json -d C:\Users\Johny\eclipse-workspace\Group6john\Scuba\test-output C:\Users\Johny\eclipse-workspace\Group6john\Scuba\testng_1.XML
+java -ea -classpath C:\Users\Johny\eclipse\java-2019-12\eclipse\configuration\org.eclipse.osgi\490\0\.cp\lib\testng-remote.jar:C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\test-classes:C:\Users\Johny\eclipse-workspace\Group6john\Scuba\target\classes:C:\Users\Johny\.p2\pool\plugins\org.testng_7.1.0.r202001120626.jar:C:\Users\Johny\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar:C:\Users\Johny\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Johny\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Johny\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\Johny\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar org.testng.remote.RemoteTestNG -serport 49715 -protocol json -d C:\Users\Johny\eclipse-workspace\Group6john\Scuba\test-output C:\Users\Johny\eclipse-workspace\Group6john\Scuba\testng_1.XML
+
+!ENTRY org.testng.eclipse 1 0 2020-07-03 14:38:15.281
+!MESSAGE Stop the socket server as it's still pending on accepting the client

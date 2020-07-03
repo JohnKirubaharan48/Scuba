@@ -1,0 +1,33 @@
+import java.util.HashMap;  
+import java.util.Map;
+import java.util.Set;  
+
+
+public class DuplicateCharFinder {
+	public static void main(String args[]) {
+		String str = new String("I know Java and Selenium");	
+		char[] st = str.toCharArray();
+		for(int i = 0; i<=str.length(); i++){
+			for(int j = i+1; j<st.length; j++){
+				if (st[i] == st[j]) {
+				System.out.println(st[j]);
+		}
+	}
+}
+}
+}
+
+		
+		
+		
+		
+//		for(int i = 0; i<=str.length(); i++){
+//			for(int j =0 ; j<=str.length(); j++) {
+//				if (st[i]==str[j]) {
+//					System.out.println(st(j));
+//				}
+//			}
+			
+//		}
+//	}
+//}

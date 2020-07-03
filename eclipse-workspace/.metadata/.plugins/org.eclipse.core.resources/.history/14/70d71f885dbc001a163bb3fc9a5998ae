@@ -1,0 +1,12 @@
+import java.util.HashMap;  
+import java.util.Map;
+import java.util.Set;  
+
+
+public class DuplicateCharFinder {
+	public static void main(String args[]) {
+		String str = new String("I know Java and Selenium");
+		System.out.println();
+	}
+ 
+}
